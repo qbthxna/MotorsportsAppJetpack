@@ -7,6 +7,7 @@
       "driver1number": 44,
       "driver2": "George Russell",
       "driver2number": 63,
+      "color": "#039be5",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/mercedes.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/mercedes.webp"
     },
@@ -18,6 +19,7 @@
       "driver1number": 1,
       "driver2": "Sergio Perez",
       "driver2number": 11,
+      "color": "#5a11e5",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/redbull.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/redbull.webp"
     },
@@ -29,6 +31,7 @@
       "driver1number": 14,
       "driver2": "Estaban Ocon",
       "driver2number": 31,
+      "color": "#008be5",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/alpine.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/alpine.webp"
     },
@@ -40,6 +43,7 @@
       "driver1number": 7,
       "driver2": "Guanyu Zhou",
       "driver2number": 24,
+      "color": "#aa0000",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/alfa_romeo.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/alfa_romeo.webp"
     },
@@ -51,6 +55,7 @@
       "driver1number": 16,
       "driver2": "Charles Leclerc",
       "driver2number": 55,
+      "color": "#e50702",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/ferrari.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/ferrari.webp"
     },
@@ -62,6 +67,7 @@
       "driver1number": 22,
       "driver2": "Yuki Tsunoda",
       "driver2number": 7,
+      "color": "#536470",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/alpha_tauri.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/alpha_tauri.webp"
     },
@@ -73,6 +79,7 @@
       "driver1number": 23,
       "driver2": "Nicholas Latifi",
       "driver2number": 6,
+      "color": "#005eb2",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/williams.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/williams.webp"
     },
@@ -84,6 +91,7 @@
       "driver1number": 4,
       "driver2": "Daniel Ricciardo",
       "driver2number": 3,
+      "color": "#e59000",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/mclaren.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/mclaren.webp"
     },
@@ -95,6 +103,7 @@
       "driver1number": 5,
       "driver2": "Lance Stroll",
       "driver2number": 18,
+      "color": "#00b100",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/aston_martin.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/aston_martin.webp"
     },
@@ -106,6 +115,7 @@
       "driver1number": 47,
       "driver2": "Kevin Magnussen",
       "driver2number": 2,
+      "color": "#b0c1cf",
       "logo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/logo/haas.webp",
       "car": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/car/haas.webp"
     }
