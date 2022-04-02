@@ -9,7 +9,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/bahrain.webp",
       "circuitLength": 5.412,
       "lapRecord": "1:31.447"
     },
@@ -23,7 +23,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/saudi.webp",
       "circuitLength": 6.174,
       "lapRecord": "1:30.734"
     },
@@ -37,7 +37,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/australia.webp",
       "circuitLength": 5.303,
       "lapRecord": "1:24.125"
     },
@@ -51,7 +51,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/emilia.webp",
       "circuitLength": 4.909,
       "lapRecord": "1:15.484"
     },
@@ -65,7 +65,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/miami.webp",
       "circuitLength": 5.41,
       "lapRecord": "null"
     },
@@ -79,7 +79,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/spain.webp",
       "circuitLength": 4.675,
       "lapRecord": "1:18.149"
     },
@@ -93,7 +93,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png.transform/5col/image.png",
+      "image":  "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/monaco.webp",
       "circuitLength": 3.337,
       "lapRecord": "1:12.909"
     },
@@ -107,7 +107,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/azerbaijan.webp",
       "circuitLength": 6.003,
       "lapRecord": "1:43.009"
     },
@@ -121,7 +121,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/canada.webp",
       "circuitLength": 4.361,
       "lapRecord": "1:13.078"
     },
@@ -135,7 +135,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/silverstone.webp",
       "circuitLength": 5.891,
       "lapRecord": "1:27.097"
     },
@@ -149,7 +149,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/austria.webp",
       "circuitLength": 4.318,
       "lapRecord": "1:05.619"
     },
@@ -163,7 +163,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/France_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/france.webp",
       "circuitLength": 5.842,
       "lapRecord": "1:32.740"
     },
@@ -177,7 +177,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/hungary.webp",
       "circuitLength": 4.381,
       "lapRecord": "1:16.627"
     },
@@ -191,7 +191,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/belgium.webp",
       "circuitLength": 7.004,
       "lapRecord": "1:46.286"
     },
@@ -205,7 +205,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/netherlands.png",
       "circuitLength": 4.259,
       "lapRecord": "1:11.097"
     },
@@ -219,7 +219,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/monza.webp",
       "circuitLength": 5.793,
       "lapRecord": "1:21.046"
     },
@@ -233,7 +233,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Turkey_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/istanbul.webp",
       "circuitLength": 5.338,
       "lapRecord": "1:36.806"
     },
@@ -247,7 +247,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/manual/races/Singapore/singapore_track.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/singapore.webp",
       "circuitLength": 5.063,
       "lapRecord": "1:41.905"
     },
@@ -261,7 +261,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/japan.png",
       "circuitLength": 5.807,
       "lapRecord": "1:30.983"
     },
@@ -275,7 +275,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/austin.webp",
       "circuitLength": 5.513,
       "lapRecord": "1:36.169"
     },
@@ -289,7 +289,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/mexico.webp",
       "circuitLength": 4.304,
       "lapRecord": "1:17.774"
     },
@@ -303,7 +303,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/brazil.webp",
       "circuitLength": 4.309,
       "lapRecord": "1:10.540"
     },
@@ -317,7 +317,7 @@
       "driver1":0,
       "driver2":0,
       "driver3":0,
-      "image": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.png.transform/5col/image.png",
+      "image": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/track/abu_dhabi.webp",
       "circuitLength": 5.281,
       "lapRecord": "1:26.103"
     }

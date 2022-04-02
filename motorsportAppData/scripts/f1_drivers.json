@@ -5,7 +5,9 @@
         "team": "Mercedes",
         "country": "United Kingdom",
         "color": "#039be5",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/hamilton.webp",
         "points": 16
+        
     },
     {
         "driver": "George Russell",
@@ -13,6 +15,7 @@
         "team": "Mercedes",
         "country": "United Kingdom",
         "color": "#039be5",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/russell.webp",
         "points": 22
     },
     {
@@ -21,6 +24,7 @@
         "team": "Aston Martin",
         "country": "Germany",
         "color": "#00b100",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/vettel.webp",
         "points": 0
     },
     {
@@ -29,6 +33,7 @@
         "team": "Ferrari",
         "country": "Monaco",
         "color": "#e50702",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/leclerc.webp",
         "points": 45
     },
     {
@@ -37,6 +42,7 @@
         "team": "Ferrari",
         "country": "Spain",
         "color": "#e50702",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/sainz.webp",
         "points": 33
     },
     {
@@ -45,6 +51,7 @@
         "team": "Red Bull",
         "country": "Netherlands",
         "color": "#5a11e5",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/verstappen.webp",
         "points": 25
     },
     {
@@ -53,6 +60,7 @@
         "team": "Red Bull",
         "country": "Mexico",
         "color": "#5a11e5",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/perez.webp",
         "points": 12
     },
     {
@@ -61,6 +69,7 @@
         "team": "AlphaTauri",
         "country": "France",
         "color": "#536470",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/gasly.webp",
         "points": 4
     },
     {
@@ -69,6 +78,7 @@
         "team": "AlphaTauri",
         "country": "Japan",
         "color": "#536470",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/tsunoda.webp",
         "points": 4
     },
     {
@@ -77,6 +87,7 @@
         "team": "Red Bull",
         "country": "Australia",
         "color": "#e59000",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/ricciardo.webp",
         "points": 0
     },
     {
@@ -85,6 +96,7 @@
         "team": "McLaren",
         "country": "United Kingdom",
         "color": "#e59000",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/norris.webp",
         "points": 6
     },
     {
@@ -93,6 +105,7 @@
         "team": "Haas",
         "country": "Denmark",
         "color": "#b0c1cf",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/magnussen.webp",
         "points": 12
     },
     {
@@ -101,6 +114,7 @@
         "team": "Haas",
         "country": "Germany",
         "color": "#b0c1cf",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/schumacher.webp",
         "points": 0
     },
     {
@@ -109,6 +123,7 @@
         "team": "Aston Martin",
         "country": "Canada",
         "color": "#00b100",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/stroll.webp",
         "points": 0
     },
     {
@@ -117,6 +132,7 @@
         "team": "Alpine",
         "country": "France",
         "color": "#008be5",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/ocon.webp",
         "points": 14
     },
     {
@@ -125,6 +141,7 @@
         "team": "Alpine",
         "country": "Spain",
         "color": "#008be5",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/alonso.webp",
         "points": 2
     },
     {
@@ -133,6 +150,7 @@
         "team": "Williams",
         "country": "Thailand",
         "color": "#005eb2",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/albon.webp",
         "points": 0
     },
     {
@@ -141,6 +159,7 @@
         "team": "Williams",
         "country": "Canada",
         "color": "#005eb2",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/latifi.webp",
         "points": 0
     },
     {
@@ -149,6 +168,7 @@
         "team": "Alpha Romeo",
         "country": "Finland",
         "color": "#aa0000",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/bottas.webp",
         "points": 8
     },
     {
@@ -157,6 +177,7 @@
         "team": "Alpha Romeo",
         "country": "China",
         "color": "#aa0000",
+        "photo": "https://raw.githubusercontent.com/qbthxna/MotorsportsAppJetpack/master/motorsportAppData/images/driver/zhou.webp",
         "points": 1
     }
 ]
